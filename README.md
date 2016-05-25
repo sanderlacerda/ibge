@@ -4,6 +4,12 @@ Scripts para obter séries de dados do IBGE
 
 Contas Nacionais Trimestrais
 
+  Tabela 1620 - Série encadeada do índice de volume trimestral (Base: média 1995 = 100) 
+  Tabela 1621 - Série encadeada do índice de volume trimestral com ajuste sazonal (Base: média 1995 = 100)  
+  Tabela 1846 - Valores a preços correntes  
+  Tabela 2072 - Contas econômicas trimestrais 
+  Tabela 2205 - Conta financeira trimestral consolidada 
+
 Pesquisa Mensal do Emprego
 
   Tabela 2189 - Rendimento médio e mediano nominal do trabalho principal, habitualmente recebido por mês, pelas pessoas de 10 anos ou mais de idade, ocupadas no trabalho principal da semana de referência.  
