@@ -1,5 +1,3 @@
-# ibge
-
 Robôs para baixar algumas séries do IBGE, através da automação do browser Firefox para lidar com os formulários das páginas do IBGE, selecionar a consulta mais geral e enviar o resultado para um email (editar no arquivo "ibge.rb").
 
 Dependências: ruby, firefox e selenium-webdriver. Usar headless em servidor sem interface gráfica.
